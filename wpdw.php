@@ -5,7 +5,7 @@ Plugin Name: WPDemoWolf
 Plugin URI: https://mainehost.com/wordpress-plugins/
 Description: Allows you to display DemoWolf tutorials with a shortcode.
 Author: Maine Hosting Solutions
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://mainehost.com/
 */
 
