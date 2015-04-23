@@ -2,8 +2,8 @@
 Contributors: mainehost, godthor
 Tags: DemoWolf, shortcode, page, post
 Requires at least: 3.0.1
-Tested up to: 4.1.1
-Stable tag: 1.0.1
+Tested up to: 4.2
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,9 +31,6 @@ Creates a shortcode that you can place on a page or post to show your DemoWolf t
 2. A screenshot of the setup screen.
 
 == Changelog ==
-
-= 1.0.1 =
-* Verified compatability with WordPress 4.1.1
 
 = 1.0.0 =
 * Initial release.
